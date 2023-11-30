@@ -1,7 +1,7 @@
 package edu.valtino.primeirasemana;
 
 public class Metodo2 {
-    
+    int i = 1;
     public double somar(int num1, int num2){
         //LÓGICA - FINALIDADE DO MÉTODO
         return somar(num1, num2);
@@ -17,9 +17,5 @@ public class Metodo2 {
          // thows Exception : indica que o método ao ser utilizado
          // podera gerar uma exeção
          return dividir(dividendo, divisor);
-    }
-
-    private void metodoPrivado(){
-        // Este método não pode ser visto por outras classes no projeto
     }
 }
