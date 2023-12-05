@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/AboutMe/AboutMe.iml" filepath="$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/AboutMe/AboutMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/AboutMeTwo/AboutMeTwo.iml" filepath="$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/AboutMeTwo/AboutMeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BootcampJava.iml" filepath="$PROJECT_DIR$/.idea/BootcampJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle-De-Fluxo/Controle-De-Fluxo.iml" filepath="$PROJECT_DIR$/Controle-De-Fluxo/Controle-De-Fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/Controle_de_fluxo/Controle_de_fluxo.iml" filepath="$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/Controle_de_fluxo/Controle_de_fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studiyng_Language-Java/Studiyng_Language-Java.iml" filepath="$PROJECT_DIR$/Studiyng_Language-Java/Studiyng_Language-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/sistema-smarttv/sistema-smarttv.iml" filepath="$PROJECT_DIR$/Studiyng_Language-Java/src/edu/valtino/sistema-smarttv/sistema-smarttv.iml" />
+    </modules>
+  </component>
+</project>
